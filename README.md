@@ -118,24 +118,6 @@ Topics:
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sisbeyene&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sisbeyene&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
@@ -145,7 +127,6 @@ Topics:
 </a>
 
  
-
 <a href="sisbeyene1@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
