@@ -34,54 +34,6 @@ My interests include:
 
 ---
 
-# 🛠️ Technical Skills
-
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,r" />
-</p>
-
-`Python` `R` `Java` `C/C++` `SQL`
-
-## Data Analytics & Visualization
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,r" />
-</p>
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Tableau
-* Power BI
-* Excel
-
-## Databases & Data Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-* SQL
-* BigQuery
-* Database Management
-* Data Cleaning
-* ETL Pipelines
-* Data Processing
-
-## Machine Learning
-
-* Scikit-Learn
-* TensorFlow
-* Predictive Modeling
-* Classification Algorithms
-* Natural Language Processing (NLP)
-* Statistical Analysis
-
----
-
 # 🚀 Featured Projects
 
 ## 📊 COVID-19 Data Analysis Dashboard
@@ -188,21 +140,16 @@ Topics:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="linkedin.com/in/sisbeyene">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
  
 
-<a href="YOUR_EMAIL_LINK">
+<a href="sisbeyene1@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
- 
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=googlechrome">
-</a>
 
 </p>
 
