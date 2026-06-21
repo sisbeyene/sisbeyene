@@ -3,127 +3,170 @@
 </h1>
 
 <h3 align="center">
-  Data Analyst | Data Engineer | Machine Learning Enthusiast
+  Data Analyst | Data Engineer 
 </h3>
 
+
 <p align="center">
-  Turning raw data into meaningful insights through analytics, engineering, and machine learning.
+  Turning numbers into stories, and data into decisions.
 </p>
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Driven%20Solutions&fontSize=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Exploring%20the%20World%20Through%20Data&fontSize=35&animation=fadeIn"/>
 </p>
 
 ## 👨‍💻 About Me
 
-I am a Computer Science and Engineering student passionate about 
-Data Analytics, Data Engineering, and Machine Learning.
+I am a Computer Science and Engineering graduate and currently pursuing a
+Master's degree in Data Analytics.
 
-My interests include building data pipelines, analyzing complex datasets,
-developing predictive models, and creating interactive dashboards that
-transform data into actionable insights.
+I am passionate about exploring data, building analytical solutions, and
+developing intelligent systems that solve real-world problems.
 
-Currently exploring:
-- Data Engineering workflows
-- Cloud technologies
-- Big Data Analytics
-- Machine Learning applications
-- Data-driven decision systems
-## 🛠️ Technical Skills
+My interests include:
 
-### Programming Languages
+* 📊 Data Analytics and Visualization
+* ⚙️ Data Engineering and ETL Pipelines
+* 🤖 Machine Learning and Artificial Intelligence
+* 🗄️ Database Systems
+* ☁️ Cloud and Big Data Technologies
+
+---
+
+# 🛠️ Technical Skills
+
+## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,r,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,r" />
 </p>
 
+`Python` `R` `Java` `C/C++` `SQL`
 
-### Data Analytics & Visualization
+## Data Analytics & Visualization
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,r" />
 </p>
 
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Tableau
-- Power BI
-- Excel
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Tableau
+* Power BI
+* Excel
 
-
-### Databases & Data Engineering
+## Databases & Data Engineering
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-- SQL
-- BigQuery
-- Database Design
-- Data Cleaning
-- ETL Pipelines
+* SQL
+* BigQuery
+* Database Management
+* Data Cleaning
+* ETL Pipelines
+* Data Processing
 
+## Machine Learning
 
-### Machine Learning
+* Scikit-Learn
+* TensorFlow
+* Predictive Modeling
+* Classification Algorithms
+* Natural Language Processing (NLP)
+* Statistical Analysis
 
-- Scikit-Learn
-- TensorFlow
-- Predictive Modeling
-- Classification Algorithms
-- NLP
-- Statistical Analysis
+---
 
 # 🚀 Featured Projects
 
-
 ## 📊 COVID-19 Data Analysis Dashboard
 
-Interactive Tableau dashboard analyzing global COVID-19 trends.
+Interactive dashboard analyzing global COVID-19 trends using visualization techniques.
 
-Technologies:
+**Tools:**
 `Tableau` `Excel` `Data Visualization`
 
 🔗 Repository:
-[COVID-19 Dashboard](YOUR_LINK_HERE)
+**[Add your repository link here](PASTE_REPO_LINK)**
 
-
+---
 
 ## 📰 Fake News Detection Using Machine Learning
 
-Machine learning pipeline for detecting misinformation using NLP techniques.
+Machine learning model that identifies misinformation using Natural Language Processing techniques.
 
-Technologies:
+**Tools:**
 `Python` `NLP` `Scikit-Learn`
 
 🔗 Repository:
-[Fake News Detection](YOUR_LINK_HERE)
+**[Add your repository link here](PASTE_REPO_LINK)**
 
-
+---
 
 ## 🚗 Car Price Prediction
 
-Regression-based machine learning model predicting vehicle prices.
+Regression-based machine learning project for predicting vehicle prices.
 
-Technologies:
+**Tools:**
 `Python` `Pandas` `Machine Learning`
 
 🔗 Repository:
-[Car Price Prediction](YOUR_LINK_HERE)
+**[Add your repository link here](PASTE_REPO_LINK)**
 
-
+---
 
 ## 📈 Sales Data Analysis
 
-Exploratory data analysis and visualization of sales trends.
+Exploratory data analysis project to discover sales patterns and business insights.
 
-Technologies:
+**Tools:**
 `Python` `SQL` `Power BI`
 
 🔗 Repository:
-[Sales Analysis](YOUR_LINK_HERE)
-## 📊 GitHub Statistics
+**[Add your repository link here](PASTE_REPO_LINK)**
 
+---
+
+# 🔬 Research & Academic Work
+
+## Digital Twins in Smart Manufacturing
+
+Survey research exploring Digital Twin technologies, Industry 4.0, IoT, and AI-driven manufacturing systems.
+
+Topics:
+
+* Digital Twin Architecture
+* IoT Integration
+* Predictive Maintenance
+* Smart Manufacturing
+
+## Privacy-Preserving Federated Learning for NLP
+
+Research on privacy-aware distributed learning approaches for Natural Language Processing.
+
+Topics:
+
+* Federated Learning
+* Privacy Preservation
+* NLP Applications
+* Distributed Artificial Intelligence
+
+---
+
+# 📜 Certifications & Learning
+
+* Google Data Analytics Professional Certificate
+* Data Analytics and Machine Learning Projects
+* Continuous learning in Data Engineering and AI
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -132,24 +175,39 @@ Technologies:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
-## 🐍 Contribution Activity
 
+---
+
+# 🐍 Contribution Activity
 
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-## 📫 Connect With Me
 
+---
 
-<p>
+# 📫 Connect With Me
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<p align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
+ 
 
-<a href="YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<a href="YOUR_EMAIL_LINK">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
+ 
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=googlechrome">
+</a>
+
+</p>
+
+<p align="center">
+  Open to opportunities, collaborations, and interesting conversations about data and technology.
 </p>
 
 ---
@@ -159,34 +217,3 @@ Technologies:
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
 
 </p>
-
-------------------------------------------------
-
-          Hi, I'm Sisay Beyene
-
-    Data Analyst | Data Engineer
-
-------------------------------------------------
-
-About Me
-
-Skills
-
-  Python SQL Cloud ML Analytics
-
-Projects
-
-  📊 Dashboard
-  📰 NLP Project
-  🚗 Prediction Model
-
-Research
-
-  Digital Twins
-  Federated Learning
-
-GitHub Stats
-
-Contact
-
-------------------------------------------------
