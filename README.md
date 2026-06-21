@@ -122,26 +122,28 @@ Topics:
 
 <p align="center">
 
-<a href="[linkedin.com/in/sisbeyene](https://www.linkedin.com/in/sisbeyene/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZAyzGWUCT22rdw6EZ2pyuA%3D%3D)">
+<a href="https://www.linkedin.com/in/sisbeyene" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
- 
+&nbsp;&nbsp;
+
 <a href="mailto:sisbeyene1@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
-
 </p>
+
 
 <p align="center">
   Open to opportunities, collaborations, and interesting conversations about data and technology.
 </p>
 
+
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sisbeyene&label=Profile%20Views&color=blue&style=flat"/>
 
 </p>
