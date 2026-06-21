@@ -120,24 +120,10 @@ Topics:
 
 # 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sisbeyene">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="mailto:sisbeyene1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
+| | |
+|-|-|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sisbeyene) | [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sisbeyene1@gmail.com) |
 
 <p align="center">
-  Open to opportunities, collaborations, and interesting conversations about data and technology.
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sisbeyene&label=Profile%20Views&color=blue&style=flat"/>
+Open to opportunities, collaborations, and interesting conversations about data and technology.
 </p>
