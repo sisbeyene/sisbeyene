@@ -122,12 +122,12 @@ Topics:
 
 <p align="center">
 
-<a href="linkedin.com/in/sisbeyene">
+<a href="[linkedin.com/in/sisbeyene](https://www.linkedin.com/in/sisbeyene/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZAyzGWUCT22rdw6EZ2pyuA%3D%3D)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
  
-<a href="sisbeyene1@gmail.com">
+<a href="mailto:sisbeyene1@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
