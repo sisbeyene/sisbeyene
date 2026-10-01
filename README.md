@@ -2,7 +2,7 @@
 
 ### Data Analyst • Data Engineer
 
-I'm a **Data Analytics graduate student at George Washington University** with a background in **Computer Science and Engineering**. I work across the data lifecycle, from cleaning and querying raw data to analysis, visualization, machine learning, and cloud-based data workflows.
+I'm a **Data Analytics graduate student at George Washington University** with a background in **Computer Science and Engineering**. I work across the data lifecycle, from cleaning and querying raw data to analysis, visualization, machine learning, and data workflows.
 
 I enjoy turning complex datasets into clear insights and practical solutions.
 
@@ -11,7 +11,7 @@ I enjoy turning complex datasets into clear insights and practical solutions.
 **Languages:** Python • SQL • R  
 **Analytics & BI:** Power BI • Tableau • Excel  
 **Data & ML:** Pandas • NumPy • Scikit-learn  
-**Cloud & Data Engineering:** AWS • BigQuery • ETL • Parquet
+**Data Tools:** BigQuery • ETL
 
 ## 📊 Featured Projects
 
@@ -36,11 +36,6 @@ Developed an interactive Power BI dashboard for exploring Amazon Prime content a
 **Python • NYC Open Data • Statistical Analysis • Data Visualization**
 
 Analyzing NYC 311 service requests to understand factors associated with longer resolution times and what those patterns may mean for service efficiency, equity, and resource allocation.
-
-### AWS Analytics Pipeline
-**Amazon S3 • AWS Glue • Amazon Athena • Parquet • ETL**
-
-Developing a cloud analytics workflow that transforms raw CSV data into Parquet, stores it in Amazon S3, catalogs it with AWS Glue, and makes it queryable through Amazon Athena.
 
 ## 🔬 Research
 
