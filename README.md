@@ -66,8 +66,37 @@ Graduate analytics project examining service efficiency, delay patterns, and the
 
 ## Certifications
 
-**Tableau Business Intelligence Analyst** · **Google Data Analytics Certificate** · **Python for Data Science, AI & Development**  
-**AWS Academy Cloud Foundations** · **AWS Academy Cloud Security Foundations**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data & Business Intelligence
+
+**Tableau Business Intelligence Analyst**  
+<sub>Tableau · Business Intelligence · Visualization</sub>
+
+**Google Data Analytics Certificate**  
+<sub>Data Analysis · SQL · Spreadsheets · Visualization</sub>
+
+**Python for Data Science, AI & Development**  
+<sub>Python · Data Science · Application Development</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Security
+
+**AWS Academy Cloud Foundations**  
+<sub>Cloud Concepts · AWS Services · Architecture</sub>
+
+**AWS Academy Cloud Security Foundations**  
+<sub>Cloud Security · IAM · Monitoring · Data Protection</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>Credential links will be added here.</sub>
 
 ---
 
