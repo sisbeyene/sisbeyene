@@ -2,7 +2,7 @@
 
 ### Data Analyst • Data Engineer
 
-I'm a **Data Analytics graduate student at George Washington University** with a background in **Computer Science and Engineering**. I work across the data lifecycle—from cleaning and querying raw data to analysis, visualization, machine learning, and cloud-based data workflows.
+I'm a **Data Analytics graduate student at George Washington University** with a background in **Computer Science and Engineering**. I work across the data lifecycle, from cleaning and querying raw data to analysis, visualization, machine learning, and cloud-based data workflows.
 
 I enjoy turning complex datasets into clear insights and practical solutions.
 
