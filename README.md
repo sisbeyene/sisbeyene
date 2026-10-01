@@ -1,75 +1,77 @@
-# Hi, I'm Sisay Beyene 👋
+<div align="center">
 
-### Data Analyst • Data Engineer
+# Sisay Beyene
 
-I'm a **Data Analytics graduate student at George Washington University** with a background in **Computer Science and Engineering**. I work across the data lifecycle, from cleaning and querying raw data to analysis, visualization, machine learning, and data workflows.
+### Data Analyst · Data Engineer
 
-I enjoy turning complex datasets into clear insights and practical solutions.
+**M.S. Data Analytics @ George Washington University**  
+Turning raw data into clear analysis, useful dashboards, and practical data products.
 
-## 🛠️ Core Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sisbeyene)
+[![GitHub](https://img.shields.io/badge/GitHub-sisbeyene-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sisbeyene)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sisbeyene1@gmail.com)
 
-**Languages:** Python • SQL • R  
-**Analytics & BI:** Power BI • Tableau • Excel  
-**Data & ML:** Pandas • NumPy • Scikit-learn  
-**Data Tools:** BigQuery • ETL
+</div>
 
-## 📊 Featured Projects
+---
 
-### [COVID-19 Global Data Analysis](https://github.com/sisbeyene/Covid-19-Data-Analysis)
-**SQL • Tableau • Excel**
+## About
 
-Explored global COVID-19 data with SQL and built an interactive Tableau dashboard to communicate infection, mortality, and vaccination patterns.
+I'm a Data Analytics graduate student with a background in Computer Science and Engineering. I work across the data lifecycle—from **cleaning and querying** raw data to **analysis, visualization, machine learning, and data applications**.
 
-### [Amazon Prime Content Dashboard](https://github.com/sisbeyene/PowerBI-AmazonMovies-Dashboard)
-**Power BI • Data Cleaning • Data Visualization**
+My portfolio focuses on practical work that shows how I approach data, not just the tools I use.
 
-Developed an interactive Power BI dashboard for exploring Amazon Prime content across genres, ratings, release years, countries, and content types.
+## Tech Stack
 
-### [Multilingual YouTube Video Summarizer with Llama 3](https://github.com/sisbeyene/MULTI-LINGUAL-YOUTUBEVIDEO-SUMMARIZER-USING-LLAMA3)
-**Python • Llama 3 • Ollama • LangChain • Gradio**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+</p>
 
-Built an end-to-end LLM application that extracts YouTube transcripts, processes long text in chunks, generates summaries with locally served Llama 3, and supports multilingual output.
+## Featured Work
 
-### [Nashville Housing Data Cleaning](https://github.com/sisbeyene/PortifolioProjects#nashville-housing-data-cleaning)
-**SQL • Data Cleaning • Data Transformation**
+| Project | Focus | Stack |
+|---|---|---|
+| **[COVID-19 Global Data Analysis](https://github.com/sisbeyene/Covid-19-Data-Analysis)** | SQL analysis of global cases, deaths, infection rates, and vaccination trends with an interactive dashboard | `SQL` `Tableau` `Excel` |
+| **[Amazon Prime Content Dashboard](https://github.com/sisbeyene/PowerBI-AmazonMovies-Dashboard)** | Interactive BI dashboard exploring catalog composition, genres, ratings, geography, and release trends | `Power BI` `Data Cleaning` `Visualization` |
+| **[Multilingual YouTube Summarizer](https://github.com/sisbeyene/MULTI-LINGUAL-YOUTUBEVIDEO-SUMMARIZER-USING-LLAMA3)** | End-to-end application for transcript extraction, long-text summarization, and multilingual output using a local LLM | `Python` `Llama 3` `LangChain` `Gradio` |
+| **[Nashville Housing Data Cleaning](https://github.com/sisbeyene/PortifolioProjects#nashville-housing-data-cleaning)** | SQL workflow for missing values, address parsing, standardization, and duplicate removal | `SQL` `Data Cleaning` `CTEs` `Window Functions` |
 
-Used SQL to standardize housing records, populate missing property addresses, split address fields, normalize categorical values, and remove duplicate records.
-
-### [Movie Market Correlation Analysis](https://github.com/sisbeyene/PortifolioProjects#movie-market-correlation-analysis)
-**Python • Pandas • Exploratory Data Analysis**
-
-Explored a movie-industry dataset to investigate relationships among financial and market variables using data cleaning, visualization, and correlation analysis.
-
-## 🚧 Current Work
+## Currently Building
 
 ### NYC 311 Service Resolution Analysis
-**Python • NYC Open Data • Statistical Analysis • Data Visualization**
 
-Analyzing NYC 311 service requests to understand factors associated with longer resolution times and what those patterns may mean for service efficiency, equity, and resource allocation.
+> **Question:** What factors are associated with longer NYC 311 service-resolution times, and can historical service-request data help identify requests at higher risk of delay?
 
-## 🔬 Research
+`Python` · `NYC Open Data` · `Statistical Analysis` · `Data Visualization`
 
-My research work spans data security, federated learning, and intelligent manufacturing systems.
+Graduate analytics project examining service efficiency, delay patterns, and their implications for resource allocation and equity.
+
+## Research
 
 - **Cyberbiosecurity Risk Assessment Framework for Genomic Data Storage in Cloud Environments**
 - **Federated Learning Applications in Healthcare, AI, and Consumer Domains**
 - **Digital Twins in Smart Manufacturing — Applications, Challenges, and Case Studies**
 
-## 🎓 Education
+## Education & Credentials
 
-**George Washington University**  
-M.S. in Data Analytics
+**George Washington University** — M.S. in Data Analytics  
+**KIIT University** — B.Tech in Computer Science & Engineering
 
-**KIIT University**  
-B.Tech in Computer Science & Engineering
+**Certifications:** Google Data Analytics Professional Certificate · JPMorgan Chase Software Engineering Virtual Experience
 
-## 📜 Certifications
+---
 
-- Google Data Analytics Professional Certificate
-- JPMorgan Chase Software Engineering Virtual Experience
+<div align="center">
 
-## 📫 Connect
+### Open to Data Analyst, Data Engineer, and related data opportunities
 
-[LinkedIn](https://www.linkedin.com/in/sisbeyene) • [GitHub](https://github.com/sisbeyene) • [Email](mailto:sisbeyene1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sisbeyene) · [GitHub](https://github.com/sisbeyene) · [Email](mailto:sisbeyene1@gmail.com)
 
-*Open to Data Analyst, Data Engineer, and related data opportunities.*
+</div>
