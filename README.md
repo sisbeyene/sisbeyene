@@ -1,129 +1,70 @@
-<h1 align="center">
-  Hi 👋, I'm Sisay Beyene
-</h1>
+# Hi, I'm Sisay Beyene 👋
 
-<h3 align="center">
-  Data Analyst | Data Engineer 
-</h3>
+### Data Analyst • Data Engineer
 
+I'm a **Data Analytics graduate student at George Washington University** with a background in **Computer Science and Engineering**. I work across the data lifecycle—from cleaning and querying raw data to analysis, visualization, machine learning, and cloud-based data workflows.
 
-<p align="center">
-  Turning numbers into stories, and data into decisions.
-</p>
+I enjoy turning complex datasets into clear insights and practical solutions.
 
+## 🛠️ Core Tools
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Exploring%20the%20World%20Through%20Data&fontSize=35&animation=fadeIn"/>
-</p>
+**Languages:** Python • SQL • R  
+**Analytics & BI:** Power BI • Tableau • Excel  
+**Data & ML:** Pandas • NumPy • Scikit-learn  
+**Cloud & Data Engineering:** AWS • BigQuery • ETL • Parquet
 
-## 👨‍💻 About Me
+## 📊 Featured Projects
 
-I am a Computer Science and Engineering graduate and currently pursuing a
-Master's degree in Data Analytics.
+### [COVID-19 Global Data Analysis](https://github.com/sisbeyene/Covid-19-Data-Analysis)
+**SQL • Tableau • Excel**
 
-I am passionate about exploring data, building analytical solutions, and
-developing intelligent systems that solve real-world problems.
+Explored global COVID-19 data with SQL and built an interactive Tableau dashboard to communicate infection, mortality, and vaccination patterns.
 
-My interests include:
+### [Fake News Detection](https://github.com/sisbeyene/Fake-News-Detection)
+**Python • NLP • TF-IDF • Scikit-learn**
 
-* 📊 Data Analytics and Visualization
-* ⚙️ Data Engineering and ETL Pipelines
-* 🤖 Machine Learning and Artificial Intelligence
-* 🗄️ Database Systems
-* ☁️ Cloud and Big Data Technologies
+Built and compared text-classification models for fake-news detection using TF-IDF features and multiple supervised machine-learning algorithms.
 
----
+### [Amazon Prime Content Dashboard](https://github.com/sisbeyene/PowerBI-AmazonMovies-Dashboard)
+**Power BI • Data Cleaning • Data Visualization**
 
-# 🚀 Featured Projects
+Developed an interactive Power BI dashboard for exploring Amazon Prime content across genres, ratings, release years, countries, and content types.
 
-## 📊 COVID-19 Data Analysis Dashboard
+## 🚧 Current Work
 
-Interactive dashboard analyzing global COVID-19 trends using visualization techniques.
+### NYC 311 Service Resolution Analysis
+**Python • NYC Open Data • Statistical Analysis • Data Visualization**
 
-**Tools:**
-`Tableau` `Excel` `Data Visualization`
+Analyzing NYC 311 service requests to understand factors associated with longer resolution times and what those patterns may mean for service efficiency, equity, and resource allocation.
 
-🔗 Repository:
-**[Add your repository link here](PASTE_REPO_LINK)**
+### AWS Analytics Pipeline
+**Amazon S3 • AWS Glue • Amazon Athena • Parquet • ETL**
 
----
+Developing a cloud analytics workflow that transforms raw CSV data into Parquet, stores it in Amazon S3, catalogs it with AWS Glue, and makes it queryable through Amazon Athena.
 
-## 📰 Fake News Detection Using Machine Learning
+## 🔬 Research
 
-Machine learning model that identifies misinformation using Natural Language Processing techniques.
+My research work spans data security, federated learning, and intelligent manufacturing systems.
 
-**Tools:**
-`Python` `NLP` `Scikit-Learn`
+- **Cyberbiosecurity Risk Assessment Framework for Genomic Data Storage in Cloud Environments**
+- **Federated Learning Applications in Healthcare, AI, and Consumer Domains**
+- **Digital Twins in Smart Manufacturing — Applications, Challenges, and Case Studies**
 
-🔗 Repository:
-**[Add your repository link here](PASTE_REPO_LINK)**
+## 🎓 Education
 
----
+**George Washington University**  
+M.S. in Data Analytics
 
-## 🚗 Car Price Prediction
+**KIIT University**  
+B.Tech in Computer Science & Engineering
 
-Regression-based machine learning project for predicting vehicle prices.
+## 📜 Certifications
 
-**Tools:**
-`Python` `Pandas` `Machine Learning`
+- Google Data Analytics Professional Certificate
+- JPMorgan Chase Software Engineering Virtual Experience
 
-🔗 Repository:
-**[Add your repository link here](PASTE_REPO_LINK)**
+## 📫 Connect
 
----
+[LinkedIn](https://www.linkedin.com/in/sisbeyene) • [GitHub](https://github.com/sisbeyene) • [Email](mailto:sisbeyene1@gmail.com)
 
-## 📈 Sales Data Analysis
-
-Exploratory data analysis project to discover sales patterns and business insights.
-
-**Tools:**
-`Python` `SQL` `Power BI`
-
-🔗 Repository:
-**[Add your repository link here](PASTE_REPO_LINK)**
-
----
-
-# 🔬 Research & Academic Work
-
-## Digital Twins in Smart Manufacturing
-
-Survey research exploring Digital Twin technologies, Industry 4.0, IoT, and AI-driven manufacturing systems.
-
-Topics:
-
-* Digital Twin Architecture
-* IoT Integration
-* Predictive Maintenance
-* Smart Manufacturing
-
-## Privacy-Preserving Federated Learning for NLP
-
-Research on privacy-aware distributed learning approaches for Natural Language Processing.
-
-Topics:
-
-* Federated Learning
-* Privacy Preservation
-* NLP Applications
-* Distributed Artificial Intelligence
-
----
-
-# 📜 Certifications & Learning
-
-* Google Data Analytics Professional Certificate
-* Data Analytics and Machine Learning Projects
-* Continuous learning in Data Engineering and AI
-
----
-
-# 📫 Connect With Me
-
-| | |
-|-|-|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sisbeyene) | [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sisbeyene1@gmail.com) |
-
-<p align="center">
-Open to opportunities, collaborations, and interesting conversations about data and technology.
-</p>
+*Open to Data Analyst, Data Engineer, and related data opportunities.*
