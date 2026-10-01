@@ -59,12 +59,14 @@ Graduate analytics project examining service efficiency, delay patterns, and the
 - **Federated Learning Applications in Healthcare, AI, and Consumer Domains**
 - **Digital Twins in Smart Manufacturing — Applications, Challenges, and Case Studies**
 
-## Education & Credentials
+## Education
 
 **George Washington University** — M.S. in Data Analytics  
 **KIIT University** — B.Tech in Computer Science & Engineering
 
-**Certifications:** Google Data Analytics Professional Certificate · JPMorgan Chase Software Engineering Virtual Experience
+## Certifications
+
+**Tableau Business Intelligence Analyst** · **Google Data Analytics Certificate** · **Python for Data Science, AI & Development**
 
 ---
 
