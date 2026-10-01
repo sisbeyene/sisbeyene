@@ -20,15 +20,20 @@ I enjoy turning complex datasets into clear insights and practical solutions.
 
 Explored global COVID-19 data with SQL and built an interactive Tableau dashboard to communicate infection, mortality, and vaccination patterns.
 
-### [Fake News Detection](https://github.com/sisbeyene/Fake-News-Detection)
-**Python • NLP • TF-IDF • Scikit-learn**
-
-Built and compared text-classification models for fake-news detection using TF-IDF features and multiple supervised machine-learning algorithms.
-
 ### [Amazon Prime Content Dashboard](https://github.com/sisbeyene/PowerBI-AmazonMovies-Dashboard)
 **Power BI • Data Cleaning • Data Visualization**
 
 Developed an interactive Power BI dashboard for exploring Amazon Prime content across genres, ratings, release years, countries, and content types.
+
+### [Nashville Housing Data Cleaning](https://github.com/sisbeyene/PortifolioProjects/blob/main/query%20for%20datacleaning%20of%20nashvillehousing%20dataset.sql)
+**SQL • Data Cleaning • Data Transformation**
+
+Used SQL to prepare housing data for analysis by standardizing fields, handling missing values, restructuring address information, and improving overall data consistency.
+
+### [Movie Market Correlation Analysis](https://github.com/sisbeyene/PortifolioProjects/blob/main/Movie_Market_Correlation.ipynb)
+**Python • Pandas • Exploratory Data Analysis • Correlation Analysis**
+
+Explored a movie-industry dataset in Python to investigate relationships among financial and market variables using data cleaning, visualization, and correlation analysis.
 
 ## 🚧 Current Work
 
