@@ -25,15 +25,20 @@ Explored global COVID-19 data with SQL and built an interactive Tableau dashboar
 
 Developed an interactive Power BI dashboard for exploring Amazon Prime content across genres, ratings, release years, countries, and content types.
 
-### [Nashville Housing Data Cleaning](https://github.com/sisbeyene/PortifolioProjects/blob/main/query%20for%20datacleaning%20of%20nashvillehousing%20dataset.sql)
+### [Multilingual YouTube Video Summarizer with Llama 3](https://github.com/sisbeyene/MULTI-LINGUAL-YOUTUBEVIDEO-SUMMARIZER-USING-LLAMA3)
+**Python • Llama 3 • Ollama • LangChain • Gradio**
+
+Built an end-to-end LLM application that extracts YouTube transcripts, processes long text in chunks, generates summaries with locally served Llama 3, and supports multilingual output.
+
+### [Nashville Housing Data Cleaning](https://github.com/sisbeyene/PortifolioProjects#nashville-housing-data-cleaning)
 **SQL • Data Cleaning • Data Transformation**
 
-Used SQL to prepare housing data for analysis by standardizing fields, handling missing values, restructuring address information, and improving overall data consistency.
+Used SQL to standardize housing records, populate missing property addresses, split address fields, normalize categorical values, and remove duplicate records.
 
-### [Movie Market Correlation Analysis](https://github.com/sisbeyene/PortifolioProjects/blob/main/Movie_Market_Correlation.ipynb)
-**Python • Pandas • Exploratory Data Analysis • Correlation Analysis**
+### [Movie Market Correlation Analysis](https://github.com/sisbeyene/PortifolioProjects#movie-market-correlation-analysis)
+**Python • Pandas • Exploratory Data Analysis**
 
-Explored a movie-industry dataset in Python to investigate relationships among financial and market variables using data cleaning, visualization, and correlation analysis.
+Explored a movie-industry dataset to investigate relationships among financial and market variables using data cleaning, visualization, and correlation analysis.
 
 ## 🚧 Current Work
 
